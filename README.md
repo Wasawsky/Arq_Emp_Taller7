@@ -11,18 +11,22 @@ https://ec2-54-210-150-219.compute-1.amazonaws.com:25000/index
 Este repositorio presenta un ejercicio desplegado en AWS para arquitecturas empresariales, usando las herramientas Maven, Spark, Git y JAVA para su desarrollo.
 
 Se implementa la arquitectura, donde se debe autenticar la conexion de las partes.
-![](/resources/img/taller.jpg)
+
+![](/resources/img/taller.JPG)
 
 Se ubicaron certificado en cada una de las maquinas, donde se implementaron llaves de acceso, adicionalmente se comprueba el login del usuario
-![](/resources/img/Capture.jpg)
+
+![](/resources/img/Capture.JPG)
 
 Se hace el despliegue en 2 maquinas ec2 de AWS, para el servicio de login y para el otro servicio
-![](/resources/img/Capture2.jpg)
+
+![](/resources/img/Capture2.JPG)
 
 El browser identifica el certificado como no valido, porque no esta avalado por alguna entidad de certificacion.
-![](/resources/img/Capture3.jpg)
 
-![](/resources/img/Capture4.jpg)
+![](/resources/img/Capture3.JPG)
+
+![](/resources/img/Capture4.JPG)
 
 
 ### Prerrequisitos
